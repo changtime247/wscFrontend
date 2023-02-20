@@ -1,6 +1,6 @@
-## [Westminster-Shorter-Catechism](https://wscfrontend-production.up.railway.app/)
+## [Westminster-Shorter-Catechism](https://www.westminstershortercatechism.online/)
 
-[Live Site](https://wscfrontend-production.up.railway.app/)
+[Live Site](https://www.westminstershortercatechism.online/)
 
 ![wsc](https://user-images.githubusercontent.com/86252224/220148710-07c2abb2-74b3-477f-85eb-75262c87e981.png)
 

@@ -9,8 +9,8 @@ const ESVCopyrightModal = () => {
         isESVCopyrightModalOpen ? 'modal-overlay show-modal' : 'modal-overlay'
       }`}
     >
-      <div className='modal-container'>
-        <p className='pt-7 text-gray-100'>
+      <div className='modal-container w-5/6 p-3 pt-7 text-gray-100'>
+        <p>
           Scripture quotations are from the ESV Bible (The Holy Bible, English
           Standard Version®), copyright © 2001 by Crossway, a publishing
           ministry of Good News Publishers. Used by permission. All rights
